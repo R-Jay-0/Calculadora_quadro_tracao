@@ -23,5 +23,6 @@ Ao executar, o programa pedirá qual material rodante (termo utilizado para se r
 * O software não lida bem com erros, fechando assim que identifica qualquer tipo de impossibilidade de continuar seu funcionamento.
 * As fórmulas demonstradas pelo software não estão todas corretas, contendo alguns erros. Apesar disso, todos (com exceção de um) os resultados serem demontrados corretamente.
 * O software não arredonda nenhum número, então exibe uma ótima precisão, porém o aquivo .txt fica deveras "poluído", difiucltando o entendimento.
+* O programa é limitado a linhas duplas em caso de túnel no trecho.
 
 (Me rendeu 20/20 pontos pelo trabalho, então serviu para seu propósito).

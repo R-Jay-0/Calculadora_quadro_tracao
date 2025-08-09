@@ -1,3 +1,4 @@
+* Informações iniciais e da primeira versão
 * Este projeto foi inicialmente criado com o intuito pessoal de aprendizado.
 * O software foi pensado para realizar um trabalho do meu curso técnico.
 * Esta é a primeira versão do programa e ela foi feita por alguém completamente inexperiente e desqualificado.
@@ -18,7 +19,7 @@ Ao executar, o programa pedirá qual material rodante (termo utilizado para se r
 
 * Ao responder com "T" para efetuar o cálculo completamente; o código pedirá o necessário para efetuar todos os cálculos citados anteriormente e efetuará também, os cálculos para a lotação ajustada
 
--> Observações:
+-> Observações da primeira versão:
 
 * O software não lida bem com erros, fechando assim que identifica qualquer tipo de impossibilidade de continuar seu funcionamento.
 * As fórmulas demonstradas pelo software não estão todas corretas, contendo alguns erros. Apesar disso, todos (com exceção de um) os resultados serem demontrados corretamente.
